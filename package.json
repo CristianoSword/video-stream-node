@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CristianoSword/video-stream-node/issues"
   },
-  "homepage": "https://github.com/CristianoSword/video-stream-node#readme"
+  "homepage": "https://github.com/CristianoSword/video-stream-node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
